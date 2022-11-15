@@ -1,2 +1,2 @@
 # Javascript
-Startup Learning Projects Javascript Language
+My Startup Learning Projects Coded In Javascript Language
